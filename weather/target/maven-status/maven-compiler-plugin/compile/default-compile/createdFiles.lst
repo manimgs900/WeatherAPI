@@ -1,0 +1,10 @@
+com\example\weather\service\WeatherForecastService.class
+com\example\weather\dao\impl\WeatherRepositoryImpl.class
+com\example\weather\advice\WeatherNotFoundAdvice.class
+com\example\weather\common\WeatherDatabase.class
+com\example\weather\dao\WeatherRepository.class
+com\example\weather\entity\Weather.class
+com\example\weather\controller\WeatherController.class
+com\example\weather\exception\WeatherException.class
+com\example\weather\common\Util.class
+com\example\weather\WeatherForecastApplication.class
